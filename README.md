@@ -1,3 +1,18 @@
 # webdesign
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basic Web Project Page
+    </title>
+</head>
 
-[README.md](https://github.com/sweral7/webdesign/files/12364573/README.md)
+<body>
+    <h1>Basic Web Project Page</h1>
+    <ul>
+        <li>Introduction to HTML</li>
+    </ul>
+</body>
+
+</html>
